@@ -1,13 +1,13 @@
-BugBuster AI
+## BugBuster AI
 
-Problem Statement
+## Problem Statement
 In modern software development, code review is a critical but time-consuming process. Developers often spend significant time identifying bugs, code inefficiencies, and potential improvements during manual reviews.
 
 Additionally, beginners struggle to understand best practices, while teams face delays due to dependency on senior developers for reviewing code. This leads to slower development cycles and inconsistent code quality.
 
 There is a need for an automated, intelligent system that can analyze code, detect issues, and provide actionable suggestions in real-time to improve productivity and maintain high-quality standards.
 
-Goal
+## Goal
 The goal of BugBuster AI is to develop an intelligent code review system that automatically analyzes source code, detects bugs, identifies inefficiencies, and provides actionable suggestions to improve code quality.
 
 The system aims to assist developers by reducing manual effort, speeding up the review process, and promoting best coding practices through AI-driven insights.
@@ -42,8 +42,8 @@ Additionally, the project focuses on making code review accessible for beginners
 ### Caching
 
 * Redis – for caching frequently accessed data and improving performance
-
-Features
+ 
+## Features
 
 
 
